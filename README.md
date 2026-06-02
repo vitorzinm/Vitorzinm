@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Vitor Hugo
+# Olá, eu sou Vitor Hugo
 
 <div align="center">
 
